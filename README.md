@@ -11,3 +11,5 @@ Performance evaluation on 6 different algorithms
 
 Programming language : Phyton
 IDE: Jupyter
+
+Author and developer : Hifdzullah, Waie, Haziq and Afif
