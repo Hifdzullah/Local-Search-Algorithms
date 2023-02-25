@@ -1,5 +1,5 @@
-# N-queens-Performance-evaluation-on-6-alogorithm-
-Performance evaluation on 6 different algorithms
+# N-queens-Performance-evaluation-on-6-alogorithms-
+N-queens on six different algorithms
 2D output display of n queens
 
 1. Stohastic Hill Climbing
