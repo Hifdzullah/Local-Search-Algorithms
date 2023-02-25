@@ -1,6 +1,5 @@
 # N-queens-Performance-evaluation-on-6-alogorithms-
-N-queens on six different algorithms
-2D output display of n queens
+ Solving N-queens chess puzzle using six different algorithms
 
 1. Stohastic Hill Climbing
 2. Hill Climb
@@ -12,4 +11,4 @@ N-queens on six different algorithms
 Programming language : Phyton
 IDE: Jupyter
 
-Author and developer : Hifdzullah, Waie, Haziq and Afif
+Author and developer : Hifdzullah, Wa'ie, Haziq and Afif
