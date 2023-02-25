@@ -1,4 +1,4 @@
-# N-queens-Performance-evaluation-on-6-alogorithms-
+# 8-queens-NxN-chess-puzzle-using-6-algorithms-
 
  Solving 8-queens on N x N chess puzzle using six different algorithms
  
