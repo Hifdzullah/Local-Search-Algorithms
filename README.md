@@ -1,6 +1,6 @@
 # N-queens-Performance-evaluation-on-6-alogorithms-
 
- Solving N-queens chess puzzle using six different algorithms
+ Solving 8-queens on N x N chess puzzle using six different algorithms
  
 1. Stohastic Hill Climbing
 2. Hill Climb
